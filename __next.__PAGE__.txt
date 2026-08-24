@@ -2,6 +2,6 @@
 2:I[82421,["/biology-interactive-models-compact/_next/static/chunks/0dbhjjzl8qfwv.js","/biology-interactive-models-compact/_next/static/chunks/0i6dsk-a_569y.js"],"SynapseLab"]
 3:I[97367,["/biology-interactive-models-compact/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/biology-interactive-models-compact/_next/static/chunks/07mk9xcz7alfk.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/biology-interactive-models-compact/_next/static/chunks/07mk9xcz7alfk.css","precedence":"next"}],["$","script","script-0",{"src":"/biology-interactive-models-compact/_next/static/chunks/0i6dsk-a_569y.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"l2rnHvSkVMbuOwEMeqXKy"}
+:HL["/biology-interactive-models-compact/_next/static/chunks/152c5vhgai_l1.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/biology-interactive-models-compact/_next/static/chunks/152c5vhgai_l1.css","precedence":"next"}],["$","script","script-0",{"src":"/biology-interactive-models-compact/_next/static/chunks/0i6dsk-a_569y.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pvJ-4_NESnmzQlascAUcO"}
 5:null
