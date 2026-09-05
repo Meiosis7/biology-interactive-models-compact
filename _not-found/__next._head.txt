@@ -1,6 +1,5 @@
 1:"$Sreact.fragment"
-2:I[97367,["/biology-interactive-models-compact/_next/static/chunks/0dbhjjzl8qfwv.js"],"ViewportBoundary"]
-3:I[97367,["/biology-interactive-models-compact/_next/static/chunks/0dbhjjzl8qfwv.js"],"MetadataBoundary"]
+2:I[887,[],"ViewportBoundary"]
+3:I[887,[],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/biology-interactive-models-compact/_next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
-0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"兴奋在神经元之间的传递"}],["$","meta","1",{"name":"description","content":"精细 3D 科学模型风格的化学突触传递互动学习网页。"}],["$","link","2",{"rel":"icon","href":"/biology-interactive-models-compact/favicon.svg"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rJnCLAqKpimjG27LdYVU-"}
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"兴奋在神经元之间的传递 | 一生儿 高中生物一本通"}],["$","meta","1",{"name":"description","content":"通过六步动态观察理解化学突触传递，支持进度拖动、慢速播放与结构探索。"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ji3LGm3wyBpH9r0boK9aZ"}
